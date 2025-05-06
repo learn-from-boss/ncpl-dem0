@@ -18,7 +18,7 @@ public class NcplDem0Application {
 
     @GetMapping("/home")
     public String homePage() {
-        return "sdlfhvaspdiuhfpo'[jfcdausidfsjdlfcsap]jfsdpjfsdf";
+        return "This is Your HomePage" + "  " + "You are Welcomed";
     }
 
     @GetMapping("/demo1")
